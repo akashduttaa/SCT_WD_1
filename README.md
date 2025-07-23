@@ -31,15 +31,3 @@ Welcome to the source code for my personal portfolio — **SkillCraft Technology
 
 ---
 
-## 📁 Project Structure
-
-
-/project-root
-│
-├── index.html          # Main HTML file
-├── style.css           # Custom styles + dark mode + layout
-├── script.js           # All JavaScript interactivity
-└── images/             # Image assets 
-    ├── about.jpg
-    ├── project1.jpg
-    └── project2.jpg
