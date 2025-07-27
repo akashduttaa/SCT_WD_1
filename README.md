@@ -1,4 +1,4 @@
-#  SkillCraft Technology | Responsive Landing Page
+#  SkillCraft Technology | Responsive Landing Page :
 
 Welcome to the source code for my personal portfolio — **SkillCraft Technology** — a responsive, dark-mode-enabled, modern portfolio site built with vanilla **HTML**, **CSS (Tailwind-inspired custom styling)**, and **JavaScript**.
 
